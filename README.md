@@ -281,7 +281,7 @@ AI service pada project saat ini menggunakan:
 
 * Anthropic
 * Claude Sonnet
-* Emergent Universal Key
+
 
 AI digunakan untuk:
 
